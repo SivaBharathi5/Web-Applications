@@ -1,0 +1,479 @@
+<html>
+    <head>
+        <title>Bismillah Cabs</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+        <script src='https://kit.fontawesome.com/a076d05399.js'></script>
+        <link rel = "icon" href ="images/b.png" type = "image/x-icon">
+        <link rel="stylesheet" href="css/index.css">
+   
+   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-180615648-1">
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-180615648-1');
+</script>   
+      
+      <script>
+            $(document).ready(function(){
+                if(!sessionStorage.getItem("modal"))
+                {
+                    sessionStorage.setItem("modal", "show");
+                    $("#quicktrip").modal('show');
+                }
+            });
+        </script>
+      
+      
+      <script>
+          $(document).ready(function(){
+              $(function(){
+                  var dtToday=new Date();
+                  var month=dtToday.getMonth()+1;
+                  var day=dtToday.getDate();
+                  var year=dtToday.getFullYear();
+                  if(month<10)
+                  month='0'+month.toString();
+                  if(day<10)
+                  day='0'+day.toString();
+                  var maxDate=year+'-'+month+'-'+day;
+                  $('#date1').attr('min',maxDate);
+                  $('#date2').attr('min',maxDate);
+                  $('#date3').attr('min',maxDate);
+                  $('#date4').attr('min',maxDate);
+                  $('#tdate').attr('min',maxDate);
+              });
+          });
+        </script>
+        
+        <script>
+            function swapValues(){
+var tmp = document.getElementById("c").value;
+document.getElementById("c").value = document.getElementById("d").value;
+document.getElementById("d").value = tmp;
+}
+        </script>
+
+
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY&libraries=places"></script>
+        <script type="text/javascript">
+            google.maps.event.addDomListener(window, 'load', function () {
+                var places = new google.maps.places.Autocomplete(document.getElementById('fromOne'),{componentRestrictions:{country:'IN'}});            
+            });
+    
+            google.maps.event.addDomListener(window, 'load', function () {
+                var places = new google.maps.places.Autocomplete(document.getElementById('toOne'),{componentRestrictions:{country:'IN'}});
+            });
+            google.maps.event.addDomListener(window, 'load', function () {
+                var places = new google.maps.places.Autocomplete(document.getElementById('fromPack'),{componentRestrictions:{country:'IN'}});            
+            });
+    
+            google.maps.event.addDomListener(window, 'load', function () {
+                var places = new google.maps.places.Autocomplete(document.getElementById('toPack'),{componentRestrictions:{country:'IN'}});
+            });
+            google.maps.event.addDomListener(window, 'load', function () {
+                var places = new google.maps.places.Autocomplete(document.getElementById('fromRound'),{componentRestrictions:{country:'IN'}});            
+            });
+    
+            google.maps.event.addDomListener(window, 'load', function () {
+                var places = new google.maps.places.Autocomplete(document.getElementById('toRound'),{componentRestrictions:{country:'IN'}});
+            });
+        </script>
+        
+        <script>
+          $(document).ready(function(){
+            $('.toast').toast('show');
+          });
+          </script>
+    </head>
+    <body style="position:absolute;">
+        <nav class="navbar navbar-expand-md bg-dark navbar-dark">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse justify-content-center" id="collapsibleNavbar">
+              <ul class="navbar-nav">
+                <li class="nav-item">
+                  <a class="nav-link active" href="index.html"><b>Home</b></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="about.html"><b>About</b></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="cars.html"><b>Cars</b></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="services.html"><b>Services</b></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="contact.html"><b>Contact Us</b></a>
+                </li>
+              </ul>
+            </div>
+          </nav>
+          
+          <div class="container-fluid mt-5 mb-5 text-center">
+            <a href="index.html"><h1 class="link">Bismillah <label class="text-warning">Cabs</label></h1></a>
+            <a href="index.html"><img src="images/logo.png" width="70px" height="70px"></a><br>
+            <a href="index.html#booking" class="btn btn-warning mt-3">Book Now</a>
+        </div>
+          
+          
+<div class="modal" id="quicktrip">
+  <div class="modal-dialog">
+    <div class="modal-content">
+        <form method="POST" action="php/toast.php">
+      <div class="modal-header">
+        <h4 class="modal-title">QuickTrip - Oneway</h4>
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+      </div>
+
+      <div class="modal-body">
+        <table class="table table-borderless">
+    <tr>
+      <td>From</td>
+      <td><input type="text" name="toastFrom" class="form-control" readonly value="Kumbakonam" id="c"></td>
+    </tr>
+    <tr><td></td><td><input class="btn btn-primary" type="button" onclick="swapValues()" value="&#8593;&#8595;"></td></tr>
+    <tr>
+      <td>To</td>
+      <td><input type="text" name="toastTo" class="form-control" readonly value="Chennai" id="d"></td>
+    </tr>
+    <tr>
+      <td>Date</td>
+      <td><input required id="tdate" name="toastDate" type="date" class="form-control"></td>
+    </tr>
+    </table>
+      </div>
+
+      <div class="modal-footer">
+          <input type="submit" class="btn btn-warning" value="Book Now">
+        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+      </div>
+</form>
+    </div>
+  </div>
+</div>
+          
+          
+          <div class="container mt-5 mb-5">
+            <div class="row justify-content-center">
+              <div class="col-sm-6">
+                <img class="img-fluid" src="images/head.png" alt="">
+              </div>
+            </div>
+            <div class="row justify-content-center">
+              <div class="col-sm-5">
+                <img class="img-fluid" src="images/cars.png" alt="">
+              </div>
+            </div>
+          </div>
+
+          <div class="container-fluid mb-5 text-center" id="booking">
+            <div class="container">
+              <ul class="nav nav-tabs" role="tablist">
+                <li class="nav-item">
+                  <a class="nav-link active" data-toggle="tab" href="#roundtrip"><b class="text-warning">Round Trip</b></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" data-toggle="tab" href="#oneway"><b class="text-warning">One Way</b></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" data-toggle="tab" href="#packages"><b class="text-warning">Packages</b></a>
+                </li>
+              </ul>
+            
+              <div class="tab-content">
+                <div id="roundtrip" class="container tab-pane active"><br>
+                  <h3>ROUND<label class="text-warning">TRIP</label></h3>
+                  <form method="post" action="php/roundIndex.php">
+                    <div class="row justify-content-center">
+                      <div class="col-sm-6">
+                        <div class="form-group">
+                          <label class="float-left">Leaving From</label>
+                          <input required name="fromRound" type="text" id="fromRound" class="form-control">
+                        </div>
+                      </div>
+                    </div>
+                    <div class="row justify-content-center">
+                      <div class="col-sm-6">
+                        <div class="form-group">
+                          <label class="float-left">Leaving To</label>
+                          <input required name="toRound" type="text" id="toRound" class="form-control">
+                        </div>
+                      </div>
+                    </div>
+                    <div class="row justify-content-center">
+                      <div class="col-sm-6">
+                        <div class="form-group">
+                          <label class="float-left">Starting From</label>
+                          <input required name="startRound" id="date2" type="date" class="form-control">
+                        </div>
+                      </div>
+                    </div>
+                    <div class="row justify-content-center">
+                      <div class="col-sm-6">
+                        <div class="form-group">
+                          <label class="float-left">Return To</label>
+                          <input required name="returnRound" id="date3" type="date" class="form-control">
+                        </div>
+                      </div>
+                    </div>
+                    <input type="submit" class="btn btn-warning" value="Search Cars">
+                  </form>
+                </div>
+                <div id="oneway" class="container tab-pane fade"><br>
+                  <h3>ONE<label class="text-warning">WAY</label></h3>
+                  <form action="php/oneIndex.php" method="post">
+                    <div class="row justify-content-center">
+                      <div class="col-sm-6">
+                        <div class="form-group">
+                          <label class="float-left">Leaving From</label>
+                          <input required name="fromOne" type="text" id="fromOne" class="form-control">
+                        </div>
+                      </div>
+                    </div>
+                    <div class="row justify-content-center">
+                      <div class="col-sm-6">
+                        <div class="form-group">
+                          <label class="float-left">Leaving To</label>
+                          <input required name="toOne" type="text" id="toOne" class="form-control">
+                        </div>
+                      </div>
+                    </div>
+                    <div class="row justify-content-center">
+                      <div class="col-sm-6">
+                        <div class="form-group">
+                          <label class="float-left">Departure</label>
+                          <input required name="dateOne" type="date" id="date1" class="form-control">
+                        </div>
+                      </div>
+                    </div>
+                    <input type="submit" class="btn btn-warning" value="Search Cars">
+                  </form>
+                </div>
+                <div id="packages" class="container tab-pane fade"><br>
+                  <h3>PACK<label class="text-warning">AGES</label></h3>
+                  <form method="post" action="php/packIndex.php">
+                    <div class="row justify-content-center">
+                      <div class="col-sm-6">
+                        <div class="form-group">
+                          <label class="float-left">Leaving From</label>
+                          <input required name="fromPack" id="fromPack" type="text" class="form-control">
+                        </div>
+                      </div>
+                    </div>
+                    <div class="row justify-content-center">
+                      <div class="col-sm-6">
+                        <div class="form-group">
+                          <label class="float-left">Leaving To</label>
+                          <input required name="toPack" id="toPack" type="text" class="form-control">
+                        </div>
+                      </div>
+                    </div>
+                    <div class="row justify-content-center">
+                      <div class="col-sm-6">
+                        <div class="form-group">
+                          <label class="float-left">Starting From</label>
+                          <input required name="startPack" id="date4" type="date" class="form-control">
+                        </div>
+                      </div>
+                    </div>
+                    <div class="row justify-content-center">
+                      <div class="col-sm-6">
+                        <div class="form-group">
+                          <label class="float-left">Duration</label>
+                          <select class="form-control" name="hour">
+                            <option value="5" selected>5 Hours</option>
+                            <option value="10">10 Hours</option>
+                            <option value="12">12 Hours</option>
+                          </select>
+                        </div>
+                      </div>
+                    </div>
+                    <input type="submit" class="btn btn-warning" value="Search Cars">
+                  </form>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+
+
+<div class="container-fluid mb-5">
+        <div class="row justify-content-center">
+          <div class="col-sm-8 p-2 rounded bg-warning">
+            <img class="img-fluid" src="images/rules.png" alt="">
+          </div>
+        </div>
+      </div>
+      
+
+          <div class="container-fluid mb-5">
+            <div id="demo" class="carousel slide" data-ride="carousel">
+
+                <ul class="carousel-indicators">
+                  <li data-target="#demo" data-slide-to="0" class="active"></li>
+                  <li data-target="#demo" data-slide-to="1"></li>
+                  <li data-target="#demo" data-slide-to="2"></li>
+                </ul>
+              
+                <div class="carousel-inner">
+                  <div class="carousel-item active">
+                    <img class="img-fluid" src="images/ef.png">
+                  </div>
+                  <div class="carousel-item">
+                    <img class="img-fluid" src="images/slide2.jpg">
+                  </div>
+                  <div class="carousel-item">
+                    <img class="img-fluid" src="images/slide3.jpg">
+                  </div>
+                </div>
+              
+                <a class="carousel-control-prev" href="#demo" data-slide="prev">
+                  <span class="carousel-control-prev-icon"></span>
+                </a>
+                <a class="carousel-control-next" href="#demo" data-slide="next">
+                  <span class="carousel-control-next-icon"></span>
+                </a>
+              
+              </div>
+          </div>
+
+
+          <div class="container-fluid mb-5">
+            <div class="row justify-content-around">
+              <div class="col-sm-4 p-5">
+                  <div class="card jumbotron">
+                    <div class="row">
+                      <div class="col-sm-12">
+                        <div class="row">
+                          <div class="col-sm-6 align-self-center text-center"><img class="img-fluid" src="images/icon1.png" alt=""></div>
+                          <div class="col-sm-6 align-self-center text-center"><h4>Fast and <label class="text-warning">Secure</label></h4></div>
+                        </div>
+                        <div class="row">
+                          <div class="col-sm-12">
+                            <p>We provide fast and secure travel and we have experienced drivers each are all having more than 6 years of experience we be on time.we providing reliable and safe taxi services.</p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                </div>
+              </div>
+              <div class="col-sm-4 p-5">
+                <div class="card jumbotron">
+                  <div class="row">
+                    <div class="col-sm-12">
+                      <div class="row">
+                        <div class="col-sm-6 align-self-center text-center"><img class="img-fluid" src="images/icon2.png" alt=""></div>
+                        <div class="col-sm-6 align-self-center text-center"><h4>Best <label class="text-warning">Price</label></h4></div>
+                      </div>
+                      <div class="row">
+                        <div class="col-sm-12">
+                          <p>Your trusted journey on lowest fare with Feel safe & Big Comfort.We are offering One Way and Round trip cab service for outstation travels and also offering Packages</p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+              </div>
+            </div>
+            <div class="col-sm-4 p-5">
+              <div class="card jumbotron">
+                <div class="row">
+                  <div class="col-sm-12">
+                    <div class="row">
+                      <div class="col-sm-6 align-self-center text-center"><img class="img-fluid" src="images/icon3.png" alt=""></div>
+                      <div class="col-sm-6 align-self-center text-center"><h4>Holiday <label class="text-warning">Package</label></h4></div>
+                    </div>
+                    <div class="row">
+                      <div class="col-sm-12">
+                        <p>Bismillah cabs covers all destinations and gives multiple packages options to choose. We offers value for money packages, luxury packages as well as customized packages.</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+            </div>
+          </div>
+            </div>
+        </div>
+
+        <div class="container-fluid mb-5">
+          <h3 class="ml-5">A Few <label class="text-warning">Testimonials</label></h3>
+          <div class="row pl-5 pr-5 pb-5 justify-content-around">
+            <div class="col-sm-4 mt-5">
+              <div class="border rounded border-dark p-3">
+                <div class="row">
+                  <div class="col-sm-12">
+                    <div class="row">
+                      <div class="col-sm-12"><p>Once I was in a hurry to reach coimbature for my personal work I did not have enough time to plan but bismillah cab help me to reach coimbature fast and safe.</p></div>
+                    </div>
+                    <div class="row">
+                      <div class="col-sm-12 d-flex justify-content-end">
+                        <h5><label class="text-warning">- Ramar</label></h5>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+            </div>
+          </div>
+          <div class="col-sm-4 mt-5">
+            <div class="border rounded border-dark p-3">
+              <div class="row">
+                <div class="col-sm-12">
+                  <div class="row">
+                    <div class="col-sm-12"><p>Five star experience at reasonable rate had an awesome experience right from booking the cab till reaching the destination and Cab driver is in friendly nature.</p></div>
+                  </div>
+                  <div class="row">
+                    <div class="col-sm-12 d-flex justify-content-end">
+                      <h5><label class="text-warning">- Srinivasan</label></h5>
+                    </div>
+                  </div>
+                </div>
+              </div>
+          </div>
+        </div>
+        <div class="col-sm-4 mt-5">
+          <div class="border rounded border-dark p-3">
+            <div class="row">
+              <div class="col-sm-12">
+                <div class="row">
+                  <div class="col-sm-12"><p>Well behaved driver.Flexible payments as per terms and conditions. You are my no. 1 choice for taxi services.Iam really impressed with the quick response from your team.</p></div>
+                </div>
+                <div class="row">
+                  <div class="col-sm-12 d-flex justify-content-end">
+                    <h5><label class="text-warning">- Sankar</label></h5>
+                  </div>
+                </div>
+              </div>
+            </div>
+        </div>
+      </div>
+          </div>
+        </div>
+
+
+          <div class="container-fluid bg-warning p-5">
+            <div class="row justify-content-around p-5">
+                <div class="col-sm-4 mt-3">
+                  <p><label><b>Bismillah Cabs</b></label> &#169; 2020 | Privacy Policy <br>Designed by KSB</p>
+                </div>
+                <div class="col-sm-4 mt-3 text-center">
+                    <b>SOCIAL MEDIA</b><br>
+                  <a href="https://m.facebook.com/BismillahCabs26/" target="_blank" class="facebook"><i class='fab fa-facebook-square' style='font-size:36px'></i></a>
+                  <a target="_blank" href="https://instagram.com/bismillah.cabs?igshid=iqjuqezhk5bf" class="insta"><i class='fab fa-instagram insta ml-3 mr-3' style='font-size:36px'></i></a>
+                  <a target="_blank" href="https://api.whatsapp.com/send?phone=+918220234556" class="whatsapp"><i class='fab fa-whatsapp-square whatsapp' style='font-size:36px'></i></a>
+                </div>
+                <div class="col-sm-4 mt-4">
+                  <h4><a href="tel:8220234556" target="_blank"><p class="link"><i class='fas fa-phone-square-alt' style='font-size:26px'></i> 8220234556</p></a></h4>
+              </div>
+            </div>
+        </div>
+    </body>
+</html>

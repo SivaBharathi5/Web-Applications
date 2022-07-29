@@ -1,0 +1,848 @@
+[13-Oct-2020 10:08:32 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id15037910_siva'@'localhost' (using password: YES) in /home/m5fc2zgidt96/public_html/php/delete.php on line 6
+[13-Oct-2020 10:08:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/m5fc2zgidt96/public_html/php/delete.php on line 9
+[13-Oct-2020 10:08:36 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id15037910_siva'@'localhost' (using password: YES) in /home/m5fc2zgidt96/public_html/php/delete.php on line 6
+[13-Oct-2020 10:08:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/m5fc2zgidt96/public_html/php/delete.php on line 9
+[13-Oct-2020 10:08:39 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id15037910_siva'@'localhost' (using password: YES) in /home/m5fc2zgidt96/public_html/php/delete.php on line 6
+[13-Oct-2020 10:08:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/m5fc2zgidt96/public_html/php/delete.php on line 9
+[13-Oct-2020 10:09:04 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id15037910_siva'@'localhost' (using password: YES) in /home/m5fc2zgidt96/public_html/php/delete.php on line 6
+[13-Oct-2020 10:09:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/m5fc2zgidt96/public_html/php/delete.php on line 9
+[13-Oct-2020 10:15:21 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id15037910_siva'@'localhost' (using password: YES) in /home/m5fc2zgidt96/public_html/php/delete.php on line 6
+[13-Oct-2020 10:15:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/m5fc2zgidt96/public_html/php/delete.php on line 9
+[13-Oct-2020 13:47:43 UTC] PHP Notice:  Undefined index: fromOne in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 25
+[13-Oct-2020 13:47:43 UTC] PHP Notice:  Undefined index: toOne in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 27
+[13-Oct-2020 13:47:43 UTC] PHP Notice:  Undefined offset: 0 in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 32
+[13-Oct-2020 13:47:43 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 32
+[13-Oct-2020 13:47:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 32
+[13-Oct-2020 13:47:43 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 32
+[13-Oct-2020 13:47:43 UTC] PHP Notice:  Undefined offset: 0 in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 33
+[13-Oct-2020 13:47:43 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 33
+[13-Oct-2020 13:47:43 UTC] PHP Notice:  Trying to get property 'duration' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 33
+[13-Oct-2020 13:47:43 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 33
+[13-Oct-2020 13:47:57 UTC] PHP Notice:  Undefined index: fromOne in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 25
+[13-Oct-2020 13:47:57 UTC] PHP Notice:  Undefined index: toOne in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 27
+[13-Oct-2020 13:47:57 UTC] PHP Notice:  Undefined offset: 0 in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 32
+[13-Oct-2020 13:47:57 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 32
+[13-Oct-2020 13:47:57 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 32
+[13-Oct-2020 13:47:57 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 32
+[13-Oct-2020 13:47:57 UTC] PHP Notice:  Undefined offset: 0 in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 33
+[13-Oct-2020 13:47:57 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 33
+[13-Oct-2020 13:47:58 UTC] PHP Notice:  Trying to get property 'duration' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 33
+[13-Oct-2020 13:47:58 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 33
+[13-Oct-2020 13:51:04 UTC] PHP Notice:  Undefined index: fromOne in /home/m5fc2zgidt96/public_html/php/toast.php on line 15
+[13-Oct-2020 13:51:04 UTC] PHP Notice:  Undefined index: toOne in /home/m5fc2zgidt96/public_html/php/toast.php on line 17
+[13-Oct-2020 13:51:04 UTC] PHP Notice:  Undefined offset: 0 in /home/m5fc2zgidt96/public_html/php/toast.php on line 22
+[13-Oct-2020 13:51:04 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/toast.php on line 22
+[13-Oct-2020 13:51:04 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/toast.php on line 22
+[13-Oct-2020 13:51:04 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/toast.php on line 22
+[13-Oct-2020 13:51:04 UTC] PHP Notice:  Undefined offset: 0 in /home/m5fc2zgidt96/public_html/php/toast.php on line 23
+[13-Oct-2020 13:51:04 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/toast.php on line 23
+[13-Oct-2020 13:51:04 UTC] PHP Notice:  Trying to get property 'duration' of non-object in /home/m5fc2zgidt96/public_html/php/toast.php on line 23
+[13-Oct-2020 13:51:04 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/toast.php on line 23
+[13-Oct-2020 14:24:15 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/m5fc2zgidt96/public_html/php/payment.php on line 126
+[13-Oct-2020 14:24:21 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/m5fc2zgidt96/public_html/php/payment.php on line 126
+[13-Oct-2020 14:24:47 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/m5fc2zgidt96/public_html/php/payment.php on line 126
+[13-Oct-2020 14:25:25 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/m5fc2zgidt96/public_html/php/payment.php on line 125
+[13-Oct-2020 14:25:43 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/m5fc2zgidt96/public_html/php/payment.php on line 125
+[13-Oct-2020 14:26:15 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/m5fc2zgidt96/public_html/php/payment.php on line 125
+[13-Oct-2020 14:26:44 UTC] PHP Notice:  Undefined index: type in /home/m5fc2zgidt96/public_html/php/payment.php on line 22
+[13-Oct-2020 14:26:44 UTC] PHP Notice:  Undefined index: type in /home/m5fc2zgidt96/public_html/php/payment.php on line 52
+[13-Oct-2020 14:26:44 UTC] PHP Notice:  Undefined index: type in /home/m5fc2zgidt96/public_html/php/payment.php on line 80
+[13-Oct-2020 14:26:44 UTC] PHP Warning:  mysqli_query(): Empty query in /home/m5fc2zgidt96/public_html/php/payment.php on line 111
+[13-Oct-2020 15:45:43 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Kumbakonam Bus Stand&amp;destinations=Chennai&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 19
+[13-Oct-2020 15:45:43 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[13-Oct-2020 15:45:43 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[13-Oct-2020 15:45:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[13-Oct-2020 15:45:43 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[13-Oct-2020 15:45:43 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[13-Oct-2020 15:45:43 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[13-Oct-2020 15:45:43 UTC] PHP Notice:  Trying to get property 'duration' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[13-Oct-2020 15:45:43 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[13-Oct-2020 16:18:44 UTC] PHP Notice:  Undefined index: fromOne in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 4
+[13-Oct-2020 16:18:44 UTC] PHP Notice:  Undefined index: toOne in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 5
+[13-Oct-2020 16:18:44 UTC] PHP Notice:  Undefined index: dateOne in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 6
+[13-Oct-2020 16:18:44 UTC] PHP Notice:  Undefined index: fromOne in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 14
+[13-Oct-2020 16:18:44 UTC] PHP Notice:  Undefined index: toOne in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 16
+[13-Oct-2020 16:18:44 UTC] PHP Notice:  Undefined offset: 0 in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[13-Oct-2020 16:18:44 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[13-Oct-2020 16:18:44 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[13-Oct-2020 16:18:44 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[13-Oct-2020 16:18:44 UTC] PHP Notice:  Undefined offset: 0 in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 22
+[13-Oct-2020 16:18:44 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 22
+[13-Oct-2020 16:18:44 UTC] PHP Notice:  Trying to get property 'duration' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 22
+[13-Oct-2020 16:18:44 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 22
+[13-Oct-2020 16:21:24 UTC] PHP Notice:  Undefined index: fromRound in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 4
+[13-Oct-2020 16:21:24 UTC] PHP Notice:  Undefined index: toRound in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 5
+[13-Oct-2020 16:21:24 UTC] PHP Notice:  Undefined index: startRound in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 6
+[13-Oct-2020 16:21:24 UTC] PHP Notice:  Undefined index: returnRound in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 7
+[13-Oct-2020 16:21:24 UTC] PHP Notice:  Undefined index: fromRound in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 15
+[13-Oct-2020 16:21:24 UTC] PHP Notice:  Undefined index: toRound in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 17
+[13-Oct-2020 16:21:25 UTC] PHP Notice:  Undefined offset: 0 in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[13-Oct-2020 16:21:25 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[13-Oct-2020 16:21:25 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[13-Oct-2020 16:21:25 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[13-Oct-2020 16:21:25 UTC] PHP Notice:  Undefined offset: 0 in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[13-Oct-2020 16:21:25 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[13-Oct-2020 16:21:25 UTC] PHP Notice:  Trying to get property 'duration' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[13-Oct-2020 16:21:25 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[13-Oct-2020 16:58:23 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Coimbatore International Airport&amp;destinations=Kumbakonam&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 19
+[13-Oct-2020 16:58:23 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[13-Oct-2020 16:58:23 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[13-Oct-2020 16:58:23 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[13-Oct-2020 16:58:23 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[13-Oct-2020 16:58:23 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[13-Oct-2020 16:58:23 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[13-Oct-2020 16:58:23 UTC] PHP Notice:  Trying to get property 'duration' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[13-Oct-2020 16:58:23 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[13-Oct-2020 19:59:59 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Chennai&amp;destinations=Tamil Nadu&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 19
+[13-Oct-2020 19:59:59 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[13-Oct-2020 19:59:59 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[13-Oct-2020 19:59:59 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[13-Oct-2020 19:59:59 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[13-Oct-2020 19:59:59 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[13-Oct-2020 19:59:59 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[13-Oct-2020 19:59:59 UTC] PHP Notice:  Trying to get property 'duration' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[13-Oct-2020 19:59:59 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[14-Oct-2020 05:26:42 UTC] PHP Notice:  Undefined index: toastFrom in /home/m5fc2zgidt96/public_html/php/toast.php on line 5
+[14-Oct-2020 05:26:42 UTC] PHP Notice:  Undefined index: toastTo in /home/m5fc2zgidt96/public_html/php/toast.php on line 6
+[14-Oct-2020 05:27:30 UTC] PHP Notice:  Undefined index: toastFrom in /home/m5fc2zgidt96/public_html/php/toast.php on line 5
+[14-Oct-2020 05:27:30 UTC] PHP Notice:  Undefined index: toastTo in /home/m5fc2zgidt96/public_html/php/toast.php on line 6
+[14-Oct-2020 05:30:07 UTC] PHP Notice:  Undefined index: toastFrom in /home/m5fc2zgidt96/public_html/php/toast.php on line 5
+[14-Oct-2020 05:30:07 UTC] PHP Notice:  Undefined index: toastTo in /home/m5fc2zgidt96/public_html/php/toast.php on line 6
+[14-Oct-2020 05:31:20 UTC] PHP Notice:  Undefined index: toastFrom in /home/m5fc2zgidt96/public_html/php/toast.php on line 5
+[14-Oct-2020 05:31:20 UTC] PHP Notice:  Undefined index: toastTo in /home/m5fc2zgidt96/public_html/php/toast.php on line 6
+[14-Oct-2020 06:59:37 UTC] PHP Notice:  Undefined property: stdClass::$distance in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[14-Oct-2020 06:59:37 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[14-Oct-2020 06:59:37 UTC] PHP Notice:  Undefined property: stdClass::$duration in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[14-Oct-2020 06:59:37 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[14-Oct-2020 07:18:01 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Natchiarkoil&amp;destinations=Valthur Bus Stand&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 19
+[14-Oct-2020 07:18:01 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[14-Oct-2020 07:18:01 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[14-Oct-2020 07:18:01 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[14-Oct-2020 07:18:01 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[14-Oct-2020 07:18:01 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[14-Oct-2020 07:18:01 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[14-Oct-2020 07:18:01 UTC] PHP Notice:  Trying to get property 'duration' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[14-Oct-2020 07:18:01 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[14-Oct-2020 13:40:31 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Nachiyar kovil Sannathi street&amp;destinations=Ooty&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 19
+[14-Oct-2020 13:40:31 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[14-Oct-2020 13:40:31 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[14-Oct-2020 13:40:31 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[14-Oct-2020 13:40:31 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[14-Oct-2020 13:40:31 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[14-Oct-2020 13:40:31 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[14-Oct-2020 13:40:31 UTC] PHP Notice:  Trying to get property 'duration' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[14-Oct-2020 13:40:31 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[14-Oct-2020 15:24:11 UTC] PHP Notice:  Undefined offset: 0 in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[14-Oct-2020 15:24:11 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[14-Oct-2020 15:24:11 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[14-Oct-2020 15:24:11 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[14-Oct-2020 15:24:11 UTC] PHP Notice:  Undefined offset: 0 in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[14-Oct-2020 15:24:11 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[14-Oct-2020 15:24:11 UTC] PHP Notice:  Trying to get property 'duration' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[14-Oct-2020 15:24:11 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[14-Oct-2020 16:13:23 UTC] PHP Notice:  Undefined index: fromRound in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 4
+[14-Oct-2020 16:13:23 UTC] PHP Notice:  Undefined index: toRound in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 5
+[14-Oct-2020 16:13:23 UTC] PHP Notice:  Undefined index: startRound in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 6
+[14-Oct-2020 16:13:23 UTC] PHP Notice:  Undefined index: returnRound in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 7
+[14-Oct-2020 16:13:23 UTC] PHP Notice:  Undefined index: fromRound in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 15
+[14-Oct-2020 16:13:23 UTC] PHP Notice:  Undefined index: toRound in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 17
+[14-Oct-2020 16:13:23 UTC] PHP Notice:  Undefined offset: 0 in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[14-Oct-2020 16:13:23 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[14-Oct-2020 16:13:23 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[14-Oct-2020 16:13:23 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[14-Oct-2020 16:13:23 UTC] PHP Notice:  Undefined offset: 0 in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[14-Oct-2020 16:13:23 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[14-Oct-2020 16:13:23 UTC] PHP Notice:  Trying to get property 'duration' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[14-Oct-2020 16:13:23 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[14-Oct-2020 16:20:42 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Chennai Central&amp;destinations=Madurai&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 18
+[14-Oct-2020 16:20:42 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[14-Oct-2020 16:20:42 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[14-Oct-2020 16:20:42 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[14-Oct-2020 16:20:42 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[14-Oct-2020 16:20:42 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 22
+[14-Oct-2020 16:20:42 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 22
+[14-Oct-2020 16:20:42 UTC] PHP Notice:  Trying to get property 'duration' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 22
+[14-Oct-2020 16:20:42 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 22
+[15-Oct-2020 04:13:21 UTC] PHP Notice:  Undefined index: toastFrom in /home/m5fc2zgidt96/public_html/php/toast.php on line 5
+[15-Oct-2020 04:13:21 UTC] PHP Notice:  Undefined index: toastTo in /home/m5fc2zgidt96/public_html/php/toast.php on line 6
+[15-Oct-2020 04:13:21 UTC] PHP Notice:  Undefined index: toastDate in /home/m5fc2zgidt96/public_html/php/toast.php on line 7
+[15-Oct-2020 08:30:03 UTC] PHP Notice:  Undefined index: fromRound in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 4
+[15-Oct-2020 08:30:03 UTC] PHP Notice:  Undefined index: toRound in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 5
+[15-Oct-2020 08:30:03 UTC] PHP Notice:  Undefined index: startRound in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 6
+[15-Oct-2020 08:30:03 UTC] PHP Notice:  Undefined index: returnRound in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 7
+[15-Oct-2020 08:30:03 UTC] PHP Notice:  Undefined index: fromRound in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 15
+[15-Oct-2020 08:30:03 UTC] PHP Notice:  Undefined index: toRound in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 17
+[15-Oct-2020 08:30:03 UTC] PHP Notice:  Undefined offset: 0 in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[15-Oct-2020 08:30:03 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[15-Oct-2020 08:30:03 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[15-Oct-2020 08:30:03 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[15-Oct-2020 08:30:03 UTC] PHP Notice:  Undefined offset: 0 in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[15-Oct-2020 08:30:03 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[15-Oct-2020 08:30:03 UTC] PHP Notice:  Trying to get property 'duration' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[15-Oct-2020 08:30:03 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[15-Oct-2020 18:08:08 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Kumbakonam&amp;destinations=Madurai &amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 18
+[15-Oct-2020 18:08:08 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[15-Oct-2020 18:08:08 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[15-Oct-2020 18:08:08 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[15-Oct-2020 18:08:08 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[15-Oct-2020 18:08:08 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 23
+[15-Oct-2020 18:08:08 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 23
+[15-Oct-2020 18:08:08 UTC] PHP Notice:  Trying to get property 'duration' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 23
+[15-Oct-2020 18:08:08 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 23
+[15-Oct-2020 18:09:13 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Kumbakonam &amp;destinations=Madurai&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 19
+[15-Oct-2020 18:09:13 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[15-Oct-2020 18:09:13 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[15-Oct-2020 18:09:13 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[15-Oct-2020 18:09:13 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[15-Oct-2020 18:09:13 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[15-Oct-2020 18:09:13 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[15-Oct-2020 18:09:13 UTC] PHP Notice:  Trying to get property 'duration' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[15-Oct-2020 18:09:13 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[15-Oct-2020 18:09:24 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Kumbakonam &amp;destinations=Madurai&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 19
+[15-Oct-2020 18:09:24 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[15-Oct-2020 18:09:24 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[15-Oct-2020 18:09:24 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[15-Oct-2020 18:09:24 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[15-Oct-2020 18:09:24 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[15-Oct-2020 18:09:24 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[15-Oct-2020 18:09:24 UTC] PHP Notice:  Trying to get property 'duration' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[15-Oct-2020 18:09:24 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[18-Oct-2020 10:03:36 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Thanjavur&amp;destinations=Chennai International Airport (MAA)&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 19
+[18-Oct-2020 10:03:36 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[18-Oct-2020 10:03:36 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[18-Oct-2020 10:03:36 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[18-Oct-2020 10:03:36 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[18-Oct-2020 10:03:36 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[18-Oct-2020 10:03:36 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[18-Oct-2020 10:03:36 UTC] PHP Notice:  Trying to get property 'duration' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[18-Oct-2020 10:03:36 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[18-Oct-2020 10:12:05 UTC] PHP Notice:  Undefined index: user in /home/m5fc2zgidt96/public_html/php/login.php on line 3
+[18-Oct-2020 11:08:21 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Nachiyar Koil&amp;destinations=Madurai&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 18
+[18-Oct-2020 11:08:21 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[18-Oct-2020 11:08:21 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[18-Oct-2020 11:08:21 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[18-Oct-2020 11:08:21 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[18-Oct-2020 11:08:21 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 23
+[18-Oct-2020 11:08:21 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 23
+[18-Oct-2020 11:08:21 UTC] PHP Notice:  Trying to get property 'duration' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 23
+[18-Oct-2020 11:08:21 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 23
+[18-Oct-2020 11:09:59 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Nachiyar Koil&amp;destinations=Madurai&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 19
+[18-Oct-2020 11:09:59 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[18-Oct-2020 11:09:59 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[18-Oct-2020 11:09:59 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[18-Oct-2020 11:09:59 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[18-Oct-2020 11:09:59 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[18-Oct-2020 11:09:59 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[18-Oct-2020 11:09:59 UTC] PHP Notice:  Trying to get property 'duration' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[18-Oct-2020 11:09:59 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[18-Oct-2020 11:11:36 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Madurai&amp;destinations=Nachiyar Koil&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 18
+[18-Oct-2020 11:11:36 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[18-Oct-2020 11:11:36 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[18-Oct-2020 11:11:36 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[18-Oct-2020 11:11:36 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[18-Oct-2020 11:11:36 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 23
+[18-Oct-2020 11:11:36 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 23
+[18-Oct-2020 11:11:36 UTC] PHP Notice:  Trying to get property 'duration' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 23
+[18-Oct-2020 11:11:36 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 23
+[18-Oct-2020 11:12:57 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Nachiyar Koil&amp;destinations=Chennai&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 18
+[18-Oct-2020 11:12:57 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[18-Oct-2020 11:12:57 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[18-Oct-2020 11:12:57 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[18-Oct-2020 11:12:57 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[18-Oct-2020 11:12:57 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 23
+[18-Oct-2020 11:12:57 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 23
+[18-Oct-2020 11:12:57 UTC] PHP Notice:  Trying to get property 'duration' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 23
+[18-Oct-2020 11:12:57 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 23
+[19-Oct-2020 14:27:32 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Kumbakonam&amp;destinations=Ethiraj College For Women&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 19
+[19-Oct-2020 14:27:32 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[19-Oct-2020 14:27:32 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[19-Oct-2020 14:27:32 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[19-Oct-2020 14:27:32 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[19-Oct-2020 14:27:32 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[19-Oct-2020 14:27:32 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[19-Oct-2020 14:27:32 UTC] PHP Notice:  Trying to get property 'duration' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[19-Oct-2020 14:27:32 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[20-Oct-2020 04:27:13 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Kumbakonam Bus Stand&amp;destinations=VAO office Manakkal Ayyampettai&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 19
+[20-Oct-2020 04:27:13 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[20-Oct-2020 04:27:13 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[20-Oct-2020 04:27:13 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[20-Oct-2020 04:27:13 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[20-Oct-2020 04:27:13 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[20-Oct-2020 04:27:13 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[20-Oct-2020 04:27:13 UTC] PHP Notice:  Trying to get property 'duration' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[20-Oct-2020 04:27:13 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[22-Oct-2020 19:10:47 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Kumbakonam Bus Stand&amp;destinations=Manakkal Ayyampet&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 19
+[22-Oct-2020 19:10:47 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[22-Oct-2020 19:10:47 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[22-Oct-2020 19:10:47 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[22-Oct-2020 19:10:47 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[22-Oct-2020 19:10:47 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[22-Oct-2020 19:10:47 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[22-Oct-2020 19:10:47 UTC] PHP Notice:  Trying to get property 'duration' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[22-Oct-2020 19:10:47 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[22-Oct-2020 19:11:15 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Manakkal Ayyampet&amp;destinations=Kumbakonam Bus Stand&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 19
+[22-Oct-2020 19:11:15 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[22-Oct-2020 19:11:15 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[22-Oct-2020 19:11:15 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[22-Oct-2020 19:11:15 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[22-Oct-2020 19:11:15 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[22-Oct-2020 19:11:15 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[22-Oct-2020 19:11:15 UTC] PHP Notice:  Trying to get property 'duration' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[22-Oct-2020 19:11:15 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[22-Oct-2020 19:11:34 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Chennai&amp;destinations=Kumbakonam Bus Stand&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 19
+[22-Oct-2020 19:11:34 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[22-Oct-2020 19:11:34 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[22-Oct-2020 19:11:34 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[22-Oct-2020 19:11:34 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[22-Oct-2020 19:11:34 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[22-Oct-2020 19:11:34 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[22-Oct-2020 19:11:34 UTC] PHP Notice:  Trying to get property 'duration' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[22-Oct-2020 19:11:34 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[22-Oct-2020 19:12:07 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Chennai&amp;destinations=Kumbakonam Bus Stand&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 19
+[22-Oct-2020 19:12:07 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[22-Oct-2020 19:12:07 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[22-Oct-2020 19:12:07 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[22-Oct-2020 19:12:07 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[22-Oct-2020 19:12:07 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[22-Oct-2020 19:12:07 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[22-Oct-2020 19:12:07 UTC] PHP Notice:  Trying to get property 'duration' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[22-Oct-2020 19:12:07 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[22-Oct-2020 19:13:38 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Kumbakonam Bus Stand&amp;destinations=Manakkal Ayyampet&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 19
+[22-Oct-2020 19:13:38 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[22-Oct-2020 19:13:38 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[22-Oct-2020 19:13:38 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[22-Oct-2020 19:13:38 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[22-Oct-2020 19:13:38 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[22-Oct-2020 19:13:38 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[22-Oct-2020 19:13:38 UTC] PHP Notice:  Trying to get property 'duration' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[22-Oct-2020 19:13:38 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[22-Oct-2020 19:15:30 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Manakkal Ayyampet&amp;destinations=Kumbakonam Temples&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 19
+[22-Oct-2020 19:15:30 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[22-Oct-2020 19:15:30 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[22-Oct-2020 19:15:30 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[22-Oct-2020 19:15:30 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[22-Oct-2020 19:15:30 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[22-Oct-2020 19:15:30 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[22-Oct-2020 19:15:30 UTC] PHP Notice:  Trying to get property 'duration' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[22-Oct-2020 19:15:30 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[23-Oct-2020 07:54:17 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Kumbakonam&amp;destinations=Manakkal Ayyampet&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 19
+[23-Oct-2020 07:54:17 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[23-Oct-2020 07:54:17 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[23-Oct-2020 07:54:17 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[23-Oct-2020 07:54:17 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[23-Oct-2020 07:54:17 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[23-Oct-2020 07:54:17 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[23-Oct-2020 07:54:17 UTC] PHP Notice:  Trying to get property 'duration' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[23-Oct-2020 07:54:17 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 17:29:41 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Kumbakonam&amp;destinations=Manakkal Ayyampet&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 19
+[24-Oct-2020 17:29:41 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 17:29:41 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 17:29:41 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 17:29:41 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 17:29:41 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 17:29:41 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 17:29:41 UTC] PHP Notice:  Trying to get property 'duration' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 17:29:41 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:09:26 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Kumbakonam&amp;destinations=Manakkal Ayyampet&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 19
+[24-Oct-2020 18:09:26 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:09:26 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:09:26 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:09:26 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:09:26 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:09:26 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:09:26 UTC] PHP Notice:  Trying to get property 'duration' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:09:26 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:16:54 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Manakkal Ayyampet&amp;destinations=Kumbakonam&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 19
+[24-Oct-2020 18:16:54 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:16:54 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:16:54 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:16:54 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:16:54 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:16:54 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:16:54 UTC] PHP Notice:  Trying to get property 'duration' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:16:54 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:17:46 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Manakkal Ayyampet&amp;destinations=Kumbakonam&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 19
+[24-Oct-2020 18:17:46 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:17:46 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:17:46 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:17:46 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:17:46 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:17:46 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:17:46 UTC] PHP Notice:  Trying to get property 'duration' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:17:46 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:18:35 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Thanjavur&amp;destinations=VAO office Manakkal Ayyampettai&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 19
+[24-Oct-2020 18:18:35 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:18:35 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:18:35 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:18:35 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:18:35 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:18:35 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:18:35 UTC] PHP Notice:  Trying to get property 'duration' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:18:35 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:18:56 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Kumbakonam&amp;destinations=Manakkal Ayyampet&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 19
+[24-Oct-2020 18:18:56 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:18:56 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:18:56 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:18:56 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:18:56 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:18:56 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:18:56 UTC] PHP Notice:  Trying to get property 'duration' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:18:56 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:25:51 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Thanjavur&amp;destinations=Manakkal Ayyampet&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 19
+[24-Oct-2020 18:25:51 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:25:51 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:25:51 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:25:51 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:25:51 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:25:51 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:25:51 UTC] PHP Notice:  Trying to get property 'duration' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:25:51 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:25:53 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Manakkal Ayyampet&amp;destinations=Kumbakonam&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 19
+[24-Oct-2020 18:25:53 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:25:53 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:25:53 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:25:53 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:25:53 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:25:53 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:25:53 UTC] PHP Notice:  Trying to get property 'duration' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:25:53 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:26:13 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Manakkal Ayyampet&amp;destinations=Kumbakonam&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 18
+[24-Oct-2020 18:26:13 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[24-Oct-2020 18:26:13 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[24-Oct-2020 18:26:13 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[24-Oct-2020 18:26:13 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[24-Oct-2020 18:26:13 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 23
+[24-Oct-2020 18:26:13 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 23
+[24-Oct-2020 18:26:13 UTC] PHP Notice:  Trying to get property 'duration' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 23
+[24-Oct-2020 18:26:13 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 23
+[24-Oct-2020 18:26:59 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Kumbakonam&amp;destinations=Manakkal Ayyampet&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 18
+[24-Oct-2020 18:26:59 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[24-Oct-2020 18:26:59 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[24-Oct-2020 18:26:59 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[24-Oct-2020 18:26:59 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[24-Oct-2020 18:26:59 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 23
+[24-Oct-2020 18:26:59 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 23
+[24-Oct-2020 18:26:59 UTC] PHP Notice:  Trying to get property 'duration' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 23
+[24-Oct-2020 18:26:59 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 23
+[24-Oct-2020 18:28:44 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Kumbakonam&amp;destinations=Manakkal Ayyampet&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 18
+[24-Oct-2020 18:28:44 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[24-Oct-2020 18:28:44 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[24-Oct-2020 18:28:44 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[24-Oct-2020 18:28:44 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[24-Oct-2020 18:28:44 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 23
+[24-Oct-2020 18:28:44 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 23
+[24-Oct-2020 18:28:44 UTC] PHP Notice:  Trying to get property 'duration' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 23
+[24-Oct-2020 18:28:44 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 23
+[24-Oct-2020 18:34:44 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Manakkal Ayyampet&amp;destinations=Kumbakonam&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 19
+[24-Oct-2020 18:34:44 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:34:44 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:34:44 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:34:44 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:34:44 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:34:44 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:34:44 UTC] PHP Notice:  Trying to get property 'duration' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:34:44 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:37:35 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Kumbakonam&amp;destinations=Manakkal Ayyampet&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/packIndex.php on line 19
+[24-Oct-2020 18:37:35 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/packIndex.php on line 22
+[24-Oct-2020 18:37:35 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/packIndex.php on line 22
+[24-Oct-2020 18:37:35 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/packIndex.php on line 22
+[24-Oct-2020 18:37:35 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/packIndex.php on line 22
+[24-Oct-2020 18:37:35 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/packIndex.php on line 24
+[24-Oct-2020 18:37:35 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/packIndex.php on line 24
+[24-Oct-2020 18:37:35 UTC] PHP Notice:  Trying to get property 'duration' of non-object in /home/m5fc2zgidt96/public_html/php/packIndex.php on line 24
+[24-Oct-2020 18:37:35 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/packIndex.php on line 24
+[24-Oct-2020 18:38:02 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Kumbakonam&amp;destinations=Manakkal Ayyampet&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 18
+[24-Oct-2020 18:38:02 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[24-Oct-2020 18:38:02 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[24-Oct-2020 18:38:02 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[24-Oct-2020 18:38:02 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[24-Oct-2020 18:38:02 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 23
+[24-Oct-2020 18:38:02 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 23
+[24-Oct-2020 18:38:02 UTC] PHP Notice:  Trying to get property 'duration' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 23
+[24-Oct-2020 18:38:02 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 23
+[24-Oct-2020 18:42:10 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Kumbakonam&amp;destinations=Manakkal Ayyampet&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 19
+[24-Oct-2020 18:42:10 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:42:10 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:42:10 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:42:10 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:42:10 UTC] PHP Warning:  Use of undefined constant SESSION - assumed 'SESSION' (this will throw an Error in a future version of PHP) in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:42:10 UTC] PHP Warning:  Illegal string offset 'distance' in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:43:41 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Manakkal Ayyampet&amp;destinations=Kumbakonam&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 19
+[24-Oct-2020 18:43:41 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:43:41 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:43:41 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:43:41 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:43:41 UTC] PHP Warning:  Use of undefined constant SESSION - assumed 'SESSION' (this will throw an Error in a future version of PHP) in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:43:41 UTC] PHP Warning:  Illegal string offset 'distance' in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:43:45 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Manakkal Ayyampet&amp;destinations=Kumbakonam&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 19
+[24-Oct-2020 18:43:46 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:43:46 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:43:46 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:43:46 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:43:46 UTC] PHP Warning:  Use of undefined constant SESSION - assumed 'SESSION' (this will throw an Error in a future version of PHP) in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:43:46 UTC] PHP Warning:  Illegal string offset 'distance' in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:45:06 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Manakkal Ayyampet&amp;destinations=Kumbakonam&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 20
+[24-Oct-2020 18:45:06 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:45:06 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:45:06 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:45:06 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:45:06 UTC] PHP Warning:  Use of undefined constant SESSION - assumed 'SESSION' (this will throw an Error in a future version of PHP) in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 25
+[24-Oct-2020 18:45:06 UTC] PHP Warning:  Illegal string offset 'distance' in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 25
+[24-Oct-2020 18:46:35 UTC] PHP Notice:  Array to string conversion in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 17
+[24-Oct-2020 18:46:35 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Manakkal Ayyampet&amp;destinations=Kumbakonam&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 20
+[24-Oct-2020 18:46:35 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:46:35 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:46:35 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:46:35 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:46:35 UTC] PHP Warning:  Use of undefined constant SESSION - assumed 'SESSION' (this will throw an Error in a future version of PHP) in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 25
+[24-Oct-2020 18:46:35 UTC] PHP Warning:  Illegal string offset 'distance' in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 25
+[24-Oct-2020 18:47:12 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Manakkal Ayyampet&amp;destinations=Kumbakonam&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 20
+[24-Oct-2020 18:47:12 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:47:12 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:47:12 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:47:12 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:47:29 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Manakkal Ayyampet&amp;destinations=Kumbakonam&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 20
+[24-Oct-2020 18:47:29 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:47:29 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:47:29 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:47:29 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:47:35 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Manakkal Ayyampet&amp;destinations=Kumbakonam&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 20
+[24-Oct-2020 18:47:35 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:47:35 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:47:35 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:47:35 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:47:41 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Manakkal Ayyampet&amp;destinations=Kumbakonam&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 20
+[24-Oct-2020 18:47:41 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:47:41 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:47:41 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:47:41 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:48:27 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Manakkal Ayyampet&amp;destinations=Kumbakonam&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 19
+[24-Oct-2020 18:48:27 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:48:27 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:48:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:48:27 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:48:27 UTC] PHP Warning:  Use of undefined constant SESSION - assumed 'SESSION' (this will throw an Error in a future version of PHP) in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:48:27 UTC] PHP Warning:  Illegal string offset 'distance' in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:48:27 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 28
+[24-Oct-2020 18:48:27 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 28
+[24-Oct-2020 18:48:28 UTC] PHP Notice:  Trying to get property 'duration' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 28
+[24-Oct-2020 18:48:28 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 28
+[24-Oct-2020 18:49:12 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Manakkal Ayyampet&amp;destinations=Kumbakonam&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 19
+[24-Oct-2020 18:49:12 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:49:12 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:49:12 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:49:12 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:49:12 UTC] PHP Warning:  Use of undefined constant SESSION - assumed 'SESSION' (this will throw an Error in a future version of PHP) in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:49:12 UTC] PHP Warning:  Illegal string offset 'distance' in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:49:36 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Manakkal Ayyampet&amp;destinations=Kumbakonam&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 19
+[24-Oct-2020 18:49:36 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:49:36 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:49:36 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:49:36 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:49:36 UTC] PHP Warning:  Use of undefined constant SESSION - assumed 'SESSION' (this will throw an Error in a future version of PHP) in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:49:36 UTC] PHP Warning:  Illegal string offset 'distance' in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:49:40 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Manakkal Ayyampet&amp;destinations=Kumbakonam&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 19
+[24-Oct-2020 18:49:40 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:49:40 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:49:40 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:49:40 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 18:49:41 UTC] PHP Warning:  Use of undefined constant SESSION - assumed 'SESSION' (this will throw an Error in a future version of PHP) in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:49:41 UTC] PHP Warning:  Illegal string offset 'distance' in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:50:25 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Kumbakonam&amp;destinations=Manakkal Ayyampet&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 21
+[24-Oct-2020 18:50:25 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:50:25 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:50:25 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:50:25 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:50:25 UTC] PHP Warning:  Use of undefined constant SESSION - assumed 'SESSION' (this will throw an Error in a future version of PHP) in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 26
+[24-Oct-2020 18:50:25 UTC] PHP Warning:  Illegal string offset 'distance' in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 26
+[24-Oct-2020 18:53:48 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Manakkal Ayyampet&amp;destinations=Kumbakonam&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 18
+[24-Oct-2020 18:53:48 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[24-Oct-2020 18:53:48 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[24-Oct-2020 18:53:48 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[24-Oct-2020 18:53:48 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[24-Oct-2020 18:54:42 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Manakkal Ayyampet&amp;destinations=Kumbakonam&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 21
+[24-Oct-2020 18:54:42 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:54:42 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:54:42 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:54:42 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:54:42 UTC] PHP Warning:  Use of undefined constant SESSION - assumed 'SESSION' (this will throw an Error in a future version of PHP) in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 26
+[24-Oct-2020 18:54:42 UTC] PHP Warning:  Illegal string offset 'distance' in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 26
+[24-Oct-2020 18:55:20 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Manakkal Ayyampet&amp;destinations=Kumbakonam&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 21
+[24-Oct-2020 18:55:20 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:55:20 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:55:20 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:55:20 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:55:20 UTC] PHP Warning:  Use of undefined constant SESSION - assumed 'SESSION' (this will throw an Error in a future version of PHP) in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 26
+[24-Oct-2020 18:55:20 UTC] PHP Warning:  Illegal string offset 'distance' in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 26
+[24-Oct-2020 18:55:23 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Manakkal Ayyampet&amp;destinations=Kumbakonam&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 21
+[24-Oct-2020 18:55:23 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:55:23 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:55:23 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:55:23 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:55:23 UTC] PHP Warning:  Use of undefined constant SESSION - assumed 'SESSION' (this will throw an Error in a future version of PHP) in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 26
+[24-Oct-2020 18:55:23 UTC] PHP Warning:  Illegal string offset 'distance' in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 26
+[24-Oct-2020 18:55:38 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Manakkal Ayyampet&amp;destinations=Kumbakonam&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 21
+[24-Oct-2020 18:55:38 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:55:38 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:55:38 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:55:38 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 24
+[24-Oct-2020 18:55:38 UTC] PHP Warning:  Use of undefined constant SESSION - assumed 'SESSION' (this will throw an Error in a future version of PHP) in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 26
+[24-Oct-2020 18:55:38 UTC] PHP Warning:  Illegal string offset 'distance' in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 26
+[24-Oct-2020 18:55:56 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Manakkal Ayyampet&amp;destinations=Kumbakonam&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 20
+[24-Oct-2020 18:55:56 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:55:56 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:55:56 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:55:56 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:56:05 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Manakkal Ayyampet&amp;destinations=Kumbakonam&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 20
+[24-Oct-2020 18:56:05 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:56:05 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:56:05 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:56:05 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:56:09 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Manakkal Ayyampet&amp;destinations=Kumbakonam&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 20
+[24-Oct-2020 18:56:09 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:56:09 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:56:09 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:56:09 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:56:22 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Manakkal Ayyampet&amp;destinations=Kumbakonam&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 20
+[24-Oct-2020 18:56:22 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:56:22 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:56:22 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:56:22 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:56:34 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Manakkal Ayyampet&amp;destinations=Kumbakonam&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 20
+[24-Oct-2020 18:56:34 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:56:34 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:56:34 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:56:34 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:56:54 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Manakkal Ayyampet&amp;destinations=Kumbakonam&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 20
+[24-Oct-2020 18:56:54 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:56:54 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:56:54 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:56:54 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:58:20 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Manakkal Ayyampet&amp;destinations=Kumbakonam&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 20
+[24-Oct-2020 18:58:20 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:58:20 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:58:20 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:58:20 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:58:51 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Manakkal Ayyampet&amp;destinations=Kumbakonam&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 20
+[24-Oct-2020 18:58:51 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:58:51 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:58:51 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:58:51 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:58:55 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Manakkal Ayyampet&amp;destinations=Kumbakonam&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 20
+[24-Oct-2020 18:58:55 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:58:55 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:58:55 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:58:55 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:59:07 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Manakkal Ayyampet&amp;destinations=Kumbakonam&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 20
+[24-Oct-2020 18:59:07 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:59:07 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:59:07 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:59:07 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:59:15 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Manakkal Ayyampet1&amp;destinations=Kumbakonam&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 20
+[24-Oct-2020 18:59:15 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:59:15 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:59:15 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:59:15 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:59:30 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Manakkal Ayyampet&amp;destinations=Kumbakonam&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 20
+[24-Oct-2020 18:59:31 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:59:31 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:59:31 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:59:31 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 23
+[24-Oct-2020 18:59:31 UTC] PHP Warning:  Use of undefined constant SESSION - assumed 'SESSION' (this will throw an Error in a future version of PHP) in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 25
+[24-Oct-2020 18:59:31 UTC] PHP Warning:  Illegal string offset 'distance' in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 25
+[24-Oct-2020 19:01:08 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Manakkal Ayyampet&amp;destinations=Kumbakonam&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 30
+[24-Oct-2020 19:01:08 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 33
+[24-Oct-2020 19:01:08 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 33
+[24-Oct-2020 19:01:08 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 33
+[24-Oct-2020 19:01:08 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 33
+[24-Oct-2020 19:01:08 UTC] PHP Warning:  Use of undefined constant SESSION - assumed 'SESSION' (this will throw an Error in a future version of PHP) in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 36
+[24-Oct-2020 19:01:08 UTC] PHP Warning:  Illegal string offset 'distance' in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 36
+[24-Oct-2020 19:01:53 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Manakkal Ayyampet&amp;destinations=Kumbakonam&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 31
+[24-Oct-2020 19:01:53 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 34
+[24-Oct-2020 19:01:53 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 34
+[24-Oct-2020 19:01:53 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 34
+[24-Oct-2020 19:01:53 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 34
+[24-Oct-2020 19:01:53 UTC] PHP Warning:  Use of undefined constant SESSION - assumed 'SESSION' (this will throw an Error in a future version of PHP) in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 37
+[24-Oct-2020 19:01:53 UTC] PHP Warning:  Illegal string offset 'distance' in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 37
+[24-Oct-2020 19:02:10 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Manakkal Ayyampet&amp;destinations=Kumbakonam&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 32
+[24-Oct-2020 19:02:10 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 35
+[24-Oct-2020 19:02:10 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 35
+[24-Oct-2020 19:02:10 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 35
+[24-Oct-2020 19:02:10 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 35
+[24-Oct-2020 19:02:10 UTC] PHP Warning:  Use of undefined constant SESSION - assumed 'SESSION' (this will throw an Error in a future version of PHP) in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 38
+[24-Oct-2020 19:02:10 UTC] PHP Warning:  Illegal string offset 'distance' in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 38
+[24-Oct-2020 19:05:35 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Manakkal Ayyampet&amp;destinations=Kumbakonam&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 18
+[24-Oct-2020 19:05:35 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[24-Oct-2020 19:05:35 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[24-Oct-2020 19:05:35 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[24-Oct-2020 19:05:35 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[24-Oct-2020 19:07:35 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Kumbakonam&amp;destinations=Manakkal Ayyampet&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 18
+[24-Oct-2020 19:07:35 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[24-Oct-2020 19:07:35 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[24-Oct-2020 19:07:35 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[24-Oct-2020 19:07:35 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[24-Oct-2020 19:07:35 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 25
+[24-Oct-2020 19:07:35 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 25
+[24-Oct-2020 19:07:35 UTC] PHP Notice:  Trying to get property 'duration' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 25
+[24-Oct-2020 19:07:35 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 25
+[24-Oct-2020 19:08:16 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Kumbakonam&amp;destinations=Taj Mahal&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 32
+[24-Oct-2020 19:08:16 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 35
+[24-Oct-2020 19:08:16 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 35
+[24-Oct-2020 19:08:16 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 35
+[24-Oct-2020 19:08:16 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 35
+[24-Oct-2020 19:08:16 UTC] PHP Warning:  Use of undefined constant SESSION - assumed 'SESSION' (this will throw an Error in a future version of PHP) in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 38
+[24-Oct-2020 19:08:16 UTC] PHP Warning:  Illegal string offset 'distance' in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 38
+[24-Oct-2020 19:09:28 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Kumbakonam Bus Stand&amp;destinations=Chennai&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 19
+[24-Oct-2020 19:09:28 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 19:09:28 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 19:09:28 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 19:09:28 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 19:09:28 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 27
+[24-Oct-2020 19:09:28 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 27
+[24-Oct-2020 19:09:28 UTC] PHP Notice:  Trying to get property 'duration' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 27
+[24-Oct-2020 19:09:28 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 27
+[24-Oct-2020 19:09:47 UTC] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&amp;origins=Chennai Central&amp;destinations=Kumbakonam&amp;key=AIzaSyDZBe5SOKG2cfOa-YekQ5aMBP1Qb4cKXUY): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 19
+[24-Oct-2020 19:09:47 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 19:09:47 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 19:09:47 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 19:09:47 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 19:09:47 UTC] PHP Notice:  Trying to get property 'rows' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 27
+[24-Oct-2020 19:09:47 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 27
+[24-Oct-2020 19:09:47 UTC] PHP Notice:  Trying to get property 'duration' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 27
+[24-Oct-2020 19:09:47 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 27
+[24-Oct-2020 19:33:38 UTC] PHP Notice:  Undefined variable: origin in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 19
+[24-Oct-2020 19:33:38 UTC] PHP Notice:  Undefined variable: destination in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 19
+[24-Oct-2020 19:33:38 UTC] PHP Notice:  Undefined offset: 0 in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 19:33:38 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 19:33:38 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 19:33:38 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[24-Oct-2020 19:33:38 UTC] PHP Notice:  Undefined offset: 0 in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 27
+[24-Oct-2020 19:33:38 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 27
+[24-Oct-2020 19:33:38 UTC] PHP Notice:  Trying to get property 'duration' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 27
+[24-Oct-2020 19:33:38 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 27
+[25-Oct-2020 14:39:17 UTC] PHP Notice:  Undefined index: fromOne in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 4
+[25-Oct-2020 14:39:17 UTC] PHP Notice:  Undefined index: toOne in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 5
+[25-Oct-2020 14:39:17 UTC] PHP Notice:  Undefined index: dateOne in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 6
+[25-Oct-2020 14:39:17 UTC] PHP Notice:  Undefined index: fromOne in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 14
+[25-Oct-2020 14:39:17 UTC] PHP Notice:  Undefined index: toOne in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 16
+[25-Oct-2020 14:39:17 UTC] PHP Notice:  Undefined offset: 0 in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[25-Oct-2020 14:39:17 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[25-Oct-2020 14:39:17 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[25-Oct-2020 14:39:17 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[25-Oct-2020 14:39:17 UTC] PHP Notice:  Undefined offset: 0 in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 25
+[25-Oct-2020 14:39:17 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 25
+[25-Oct-2020 14:39:17 UTC] PHP Notice:  Trying to get property 'duration' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 25
+[25-Oct-2020 14:39:17 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 25
+[27-Oct-2020 16:33:30 UTC] PHP Notice:  Undefined index: toastFrom in /home/m5fc2zgidt96/public_html/php/toast.php on line 5
+[27-Oct-2020 16:33:30 UTC] PHP Notice:  Undefined index: toastTo in /home/m5fc2zgidt96/public_html/php/toast.php on line 6
+[27-Oct-2020 16:33:30 UTC] PHP Notice:  Undefined index: toastDate in /home/m5fc2zgidt96/public_html/php/toast.php on line 7
+[28-Oct-2020 01:30:59 UTC] PHP Notice:  Undefined property: stdClass::$distance in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[28-Oct-2020 01:30:59 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[28-Oct-2020 01:30:59 UTC] PHP Notice:  Undefined property: stdClass::$duration in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 27
+[28-Oct-2020 01:30:59 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 27
+[28-Oct-2020 02:43:28 UTC] PHP Notice:  Undefined index: fromOne in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 4
+[28-Oct-2020 02:43:28 UTC] PHP Notice:  Undefined index: toOne in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 5
+[28-Oct-2020 02:43:28 UTC] PHP Notice:  Undefined index: dateOne in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 6
+[28-Oct-2020 02:43:28 UTC] PHP Notice:  Undefined index: fromOne in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 14
+[28-Oct-2020 02:43:28 UTC] PHP Notice:  Undefined index: toOne in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 16
+[28-Oct-2020 02:43:28 UTC] PHP Notice:  Undefined offset: 0 in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[28-Oct-2020 02:43:28 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[28-Oct-2020 02:43:28 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[28-Oct-2020 02:43:28 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 21
+[28-Oct-2020 02:43:28 UTC] PHP Notice:  Undefined offset: 0 in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 25
+[28-Oct-2020 02:43:28 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 25
+[28-Oct-2020 02:43:28 UTC] PHP Notice:  Trying to get property 'duration' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 25
+[28-Oct-2020 02:43:28 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/oneIndex.php on line 25
+[28-Oct-2020 02:54:55 UTC] PHP Notice:  Undefined index: toastFrom in /home/m5fc2zgidt96/public_html/php/toast.php on line 5
+[28-Oct-2020 02:54:55 UTC] PHP Notice:  Undefined index: toastTo in /home/m5fc2zgidt96/public_html/php/toast.php on line 6
+[28-Oct-2020 02:54:55 UTC] PHP Notice:  Undefined index: toastDate in /home/m5fc2zgidt96/public_html/php/toast.php on line 7
+[28-Oct-2020 02:59:31 UTC] PHP Notice:  Undefined index: fromRound in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 4
+[28-Oct-2020 02:59:31 UTC] PHP Notice:  Undefined index: toRound in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 5
+[28-Oct-2020 02:59:31 UTC] PHP Notice:  Undefined index: startRound in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 6
+[28-Oct-2020 02:59:31 UTC] PHP Notice:  Undefined index: returnRound in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 7
+[28-Oct-2020 02:59:31 UTC] PHP Notice:  Undefined index: fromRound in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 15
+[28-Oct-2020 02:59:31 UTC] PHP Notice:  Undefined index: toRound in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 17
+[28-Oct-2020 02:59:31 UTC] PHP Notice:  Undefined offset: 0 in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[28-Oct-2020 02:59:31 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[28-Oct-2020 02:59:31 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[28-Oct-2020 02:59:31 UTC] PHP Notice:  Trying to get property 'value' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 22
+[28-Oct-2020 02:59:31 UTC] PHP Notice:  Undefined offset: 0 in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 27
+[28-Oct-2020 02:59:31 UTC] PHP Notice:  Trying to get property 'elements' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 27
+[28-Oct-2020 02:59:31 UTC] PHP Notice:  Trying to get property 'duration' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 27
+[28-Oct-2020 02:59:31 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/m5fc2zgidt96/public_html/php/roundIndex.php on line 27

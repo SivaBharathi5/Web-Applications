@@ -1,0 +1,31 @@
+<?php
+session_start();
+$_SESSION['amt']=0;
+$_SESSION['carType']='';
+if(strcmp($_GET['type'],"hatch")==0)
+{
+    $_SESSION['carType']="Hatchbag";
+    $_SESSION['amt']=$_SESSION['amtH'];
+}
+if(strcmp($_GET['type'],"sedan")==0)
+{
+    $_SESSION['carType']="Sedan";
+    $_SESSION['amt']=$_SESSION['amtSe'];
+}
+if(strcmp($_GET['type'],"suv")==0)
+{
+    $_SESSION['carType']="SUV";
+    $_SESSION['amt']=$_SESSION['amtS'];
+}
+if(strcmp($_GET['type'],"tavera")==0)
+{
+    $_SESSION['carType']="Tavera";
+    $_SESSION['amt']=$_SESSION['amtT'];
+}
+if(strcmp($_GET['type'],"van")==0)
+{
+    $_SESSION['carType']="Van";
+    $_SESSION['amt']=$_SESSION['amtV'];
+}
+header('location:../payment.php');
+?>

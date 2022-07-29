@@ -1,0 +1,19 @@
+<?php
+session_start();
+if(strcmp($_POST['user'],"bismillah")==0)
+{
+    if(strcmp($_POST['pass'],"123456")==0)
+    {
+        $_SESSION['login']="logged";
+        header('location:../admin.php');
+    }
+    else
+    {
+        header('location:../index.html');
+    }
+}
+else
+{
+    header('location:../index.html');
+}
+?>
